@@ -1,1 +1,1 @@
-# szkolaSpringa
+# szkola Springa
